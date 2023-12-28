@@ -1,0 +1,16 @@
+{
+    "name": "7ts/layout-master",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SevenTS\\LayoutMaster\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "7TS"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
