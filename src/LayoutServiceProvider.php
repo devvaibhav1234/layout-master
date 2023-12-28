@@ -30,6 +30,7 @@ class LayoutServiceProvider extends ServiceProvider
 
         $this->publishes([
             __DIR__ . '/layouts' => resource_path('views/layouts'),
+            __DIR__ . '/home' => resource_path('views/'),                         
         ], 'views');
 
         // Publish your custom routes file
