@@ -11,11 +11,12 @@ You can install the package via composer:
 composer require 7ts/layout-master
 After installing the package, add the service provider to the providers array in the config/app.php file:
 
+``
 'providers' => [
     // Other service providers...
     \SevenTS\LayoutMaster\LayoutServiceProvider::class,
 ],
-
+``
 # Usage
 After adding the service provider, you can customize your layout by publishing the required files based on your needs.
 
