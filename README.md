@@ -2,8 +2,8 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Layout Master is a Laravel package that provides [brief description of what your package does].
-
+Layout Master is a Laravel package that provides [brief description of what your package does]. 
+ 
 # Installation
 
 You can install the package via composer:
